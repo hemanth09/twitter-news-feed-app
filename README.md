@@ -52,16 +52,16 @@ And in browser App will running on http://localhost:3000/
 
 ### Project structure
 
-##Server Folder
+## Server Folder
 
-##Schema
+## Schema
 `twitter.js` Consits of GraphQl schema for twitter api.
 `apis/twiiter.js` Helper methods to gain access to the Api and load in GraphQl schema.
 
-##server
+## server
 `server.js` Consits of SSR Logic
 
-##Client Folder
+## Client Folder
 
 ## components
 In this directory are all UI components that are used. `Headline` is responsible for rendering headline. `TweetList` is responsible for displaying the Tweets Data using Apollo GraphQl.
